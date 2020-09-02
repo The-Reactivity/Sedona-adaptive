@@ -1,6 +1,10 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
+## Сайт туристического городка в штате Аризона
+
 ## v. 2020.07.13
+
+### Стек: Gulp + Sass
 
 * Наставник: [Григорьев Александр](https://htmlacademy.ru/profile/fuckhtml).
 
