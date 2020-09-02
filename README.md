@@ -1,5 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
+## v. 2020.07.13
+
 * Наставник: [Григорьев Александр](https://htmlacademy.ru/profile/fuckhtml).
 
 ---
